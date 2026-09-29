@@ -1,1 +1,2 @@
-# Horizon-2
+# HORIZON Asia 2026
+Simple travel app starter.
