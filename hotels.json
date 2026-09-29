@@ -1,1 +1,8 @@
-[{"name":"APA Osaka"},{"name":"CUBE Hiroshima"},{"name":"GLANSIT Tokyo"},{"name":"Y's Cabin Okinawa"},{"name":"Daan Park Taipei"},{"name":"MOOGM Seoul"}]
+[
+  {
+    "name": "APA Osaka"
+  },
+  {
+    "name": "GLANSIT Tokyo"
+  }
+]
